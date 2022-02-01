@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gmail Badge](https://img.shields.io/badge/-Shuhaib.S-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saisankarattingal@gmail.com)](mailto:saisankarattingal@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Shuhaib.S-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saisankar/)](https://www.linkedin.com/in/saisankar-s-r-896a39150/)
-[![Website Badge](https://img.shields.io/badge/-Shuhaib.S-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://saisankar.online)](https://saisankar.online)
+[![Gmail Badge](https://img.shields.io/badge/-Saisankar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saisankarattingal@gmail.com)](mailto:saisankarattingal@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Saisankar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saisankar/)](https://www.linkedin.com/in/saisankar-s-r-896a39150/)
+[![Website Badge](https://img.shields.io/badge/-Saisankar-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://saisankar.online)](https://saisankar.online)
  
 
 <h1>Hi,👋 i'm Saisankar(https://saisankar.online/),</h1> Dedicated self-taught MERN stack developer with robust problem-solving skills and proven experience in 
