@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Shuhaib.S-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saisankar/)](https://www.linkedin.com/in/saisankar-s-r-896a39150/)
 [![Website Badge](https://img.shields.io/badge/-Shuhaib.S-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://saisankar.online)](https://saisankar.online)
  
-<h1>
-Hi, i'm [Saisankar](https://saisankar.online/),Dedicated self-taught MERN stack developer with robust problem-solving skills and proven experience in 
+
+Hi, i'm [Saisankar](https://saisankar.online/), Dedicated self-taught MERN stack developer with robust problem-solving skills and proven experience in 
 developing web applications in a test driven environment. Developed a social media platform for constructors to build their network bettter and E-commerce website with lates technology. I am seeking a role that allows me to continue learning and perfecting my skills as I provide high quality work, and encourages me to flourish as a web developer. I am flexible person who is interested challenging myself and acquire any piece of knowledge from anywhere I could. I am the kind of person who acquire knowledge to apply what I have learned and I experiment with it to push myself into new heights.
-</h1>
+
 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
