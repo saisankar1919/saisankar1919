@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 developing web applications in a test driven environment. Developed a social media platform for constructors to build their network bettter and E-commerce website with lates technology. I am seeking a role that allows me to continue learning and perfecting my skills as I provide high quality work, and encourages me to flourish as a web developer. I am flexible person who is interested challenging myself and acquire any piece of knowledge from anywhere I could. I am the kind of person who acquire knowledge to apply what I have learned and I experiment with it to push myself into new heights.
 
 
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
