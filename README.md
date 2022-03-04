@@ -29,7 +29,7 @@ developing web applications in a test driven environment. Developed a social med
  <a href="https://app.daily.dev/saisankar1919"><img src="https://api.daily.dev/devcards/d3824a02b43c47a89e42c0a33b243f70.png?r=bow" width="400" alt="Sai sankar's Dev Card"/></a>
 </div>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
